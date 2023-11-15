@@ -39,6 +39,7 @@
         "flarum/subscriptions": "*",
         "flarum/suspend": "*",
         "flarum/tags": "*",
+        "fof/upload": "*",
         "isaced/flarum-ext-email-verification-switch": "^1.0"
     },
     "config": {
