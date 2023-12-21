@@ -40,7 +40,8 @@
         "flarum/suspend": "*",
         "flarum/tags": "*",
         "fof/upload": "*",
-        "isaced/flarum-ext-email-verification-switch": "^1.0"
+        "isaced/flarum-ext-email-verification-switch": "^1.0",
+        "jeromegillard/map": "*"
     },
     "config": {
         "preferred-install": "dist",

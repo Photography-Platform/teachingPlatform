@@ -1,0 +1,14 @@
+<div class="mapFile-container">
+    <div class="mapFile-placeholder"></div>
+    <div class="ButtonGroup mapFile" data-fof-upload-download-uuid="{@uuid}" data-map-url="{@url}">
+        <div class="Button hasIcon Button--icon Button--primary"><i class="fas fa-download"></i></div>
+        <div class="Button">
+            {SIMPLETEXT1}
+        </div>
+        <div class="Button">
+            <xsl:value-of select="@size"/>
+        </div>
+    </div>
+</div>
+
+<?php /**PATH C:\laragon\www\teachingPlatform\vendor\jeromegillard\map/resources/templates/jeromegillard-map.blade.php ENDPATH**/ ?>
